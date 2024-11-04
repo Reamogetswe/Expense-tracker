@@ -1,0 +1,14 @@
+C:\Users\maund\Desktop\GUI\ExpenseTrackerApp\bin\Debug\net8.0-windows\ExpenseTrackerApp.exe
+C:\Users\maund\Desktop\GUI\ExpenseTrackerApp\bin\Debug\net8.0-windows\ExpenseTrackerApp.deps.json
+C:\Users\maund\Desktop\GUI\ExpenseTrackerApp\bin\Debug\net8.0-windows\ExpenseTrackerApp.runtimeconfig.json
+C:\Users\maund\Desktop\GUI\ExpenseTrackerApp\bin\Debug\net8.0-windows\ExpenseTrackerApp.dll
+C:\Users\maund\Desktop\GUI\ExpenseTrackerApp\bin\Debug\net8.0-windows\ExpenseTrackerApp.pdb
+C:\Users\maund\Desktop\GUI\ExpenseTrackerApp\obj\Debug\net8.0-windows\ExpenseTrackerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maund\Desktop\GUI\ExpenseTrackerApp\obj\Debug\net8.0-windows\ExpenseTrackerApp.AssemblyInfoInputs.cache
+C:\Users\maund\Desktop\GUI\ExpenseTrackerApp\obj\Debug\net8.0-windows\ExpenseTrackerApp.AssemblyInfo.cs
+C:\Users\maund\Desktop\GUI\ExpenseTrackerApp\obj\Debug\net8.0-windows\ExpenseTrackerApp.csproj.CoreCompileInputs.cache
+C:\Users\maund\Desktop\GUI\ExpenseTrackerApp\obj\Debug\net8.0-windows\ExpenseTrackerApp.dll
+C:\Users\maund\Desktop\GUI\ExpenseTrackerApp\obj\Debug\net8.0-windows\refint\ExpenseTrackerApp.dll
+C:\Users\maund\Desktop\GUI\ExpenseTrackerApp\obj\Debug\net8.0-windows\ExpenseTrackerApp.pdb
+C:\Users\maund\Desktop\GUI\ExpenseTrackerApp\obj\Debug\net8.0-windows\ExpenseTrackerApp.genruntimeconfig.cache
+C:\Users\maund\Desktop\GUI\ExpenseTrackerApp\obj\Debug\net8.0-windows\ref\ExpenseTrackerApp.dll
